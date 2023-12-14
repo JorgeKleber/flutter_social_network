@@ -65,6 +65,9 @@ flutter:
      - images/image_3.png
      - images/user.png
      - images/background.png
+     - images/like.png
+     - images/chat.png
+     - images/share.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
