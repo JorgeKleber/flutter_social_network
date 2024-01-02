@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![](https://github.com/JorgeKleber/flutter_social_network/blob/main/current_project.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
